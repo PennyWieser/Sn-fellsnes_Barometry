@@ -1,6 +1,13 @@
 This repository contains the code used to perform Cpx-barometry calculations and plotting.
 
-The file Snæfellsnes_FIs_Examples.pdf contains example pictures of FI, and MountMap contains a map of the epoxy puck.  
+-Snæfellsnes_FIs_Examples.pdf contains example pictures of FI, and MountMap contains a map of the epoxy puck.  
 These are not perfect publication quality figures, but they will allow anyone handling these samples in future to know what FI we analysed,
 and look for textural trends. 
+
+- MountMap.pdf Is a map of the epoxy mount for future use
+
+- Bud_Supporting_info_2025.ipynb shows the Cpx barometry calculations, and the plots shown in the main text and supplement for Bud
+- Bers_Supporting_info_2025.ipynb shows the Cpx barometry calculations, and the plots shown in the main text and supplement for Bers
+- Compiled_Cpx_Data_Nov2024.xlsx - Spreadsheet containing Cpx data used for calculations (read in by the two notebooks above) and FI data for plotting. 
+
 
